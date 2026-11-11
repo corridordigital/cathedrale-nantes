@@ -1,0 +1,6 @@
+{
+  "name": "Cathédrale de Nantes en Automne — Scène 3D Interactive",
+  "description": "Exploration 3D procédurale de la Cathédrale Saint-Pierre-et-Saint-Paul de Nantes en automne, entourée de ses platanes et marronniers dorés sur la Place Saint-Pierre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
